@@ -9,8 +9,8 @@ Click on any arc to zoom in, and click on the center circle to zoom out. Use the
 #How to use
 
 - fork the project
-npm install http-server -g
-http-server
-http://localhost:8888/ 
+- npm install http-server -g
+- http-server
+- http://localhost:8888/ 
 
 - and that's it, you can see the result
